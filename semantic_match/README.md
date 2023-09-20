@@ -11,7 +11,9 @@ https://github.com/CLUEbenchmark/SimCLUE
 
 ## 评测
 这里只是用了两个模型，BGE和M3E，这两个都是今年发布的，是现在中文语义模型的顶流，其中BGE的势头要更足些。
-<img src='../imgs/bge-vs-m3e.jpg'>
+<center>
+<img src='../imgs/bge-vs-m3e.jpg' width=400px>
+</center>
 
 当前的测试集大小只有一万条，从整体上BGE模型的分数要高一些，但是如果需要更加精确的评测则需要增加不同种类的数据集，才能看出泛化能力以及多任务能力。
 
